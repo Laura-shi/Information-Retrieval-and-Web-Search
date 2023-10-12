@@ -1,0 +1,10 @@
+Problem 1 [20 points]. Write a (Perl) script that copies, line by line, a text 
+file into a destination file. The source and destination file paths are given
+as input parameters. You should handle all cases.
+
+-------------------------------------------------------------------------
+
+Problem 2 [20 points]. Write a (Perl) script (or in another programming language) 
+that counts how many words are in the main page of the course website. Also, 
+display the vocabulary of the page in alphabetical order showing for each word 
+its frequency in the page.
