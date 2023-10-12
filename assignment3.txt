@@ -1,0 +1,9 @@
+
+Problem 1 [20 points]. Design an extension of the basic Boolean model that 
+would allow for ranking of the retrieved documents. Be as detailed as possible.
+
+Problem 2 [30 points]. Write a (Perl or Python) script that displays the 
+vocabulary and frequency of each word in the main page of the class' website 
+and on all other documents directly linked from the main page. For each
+word, also compute in how many different documents it occurs in this
+small collection. You must use hashes.
