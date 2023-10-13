@@ -1,0 +1,7 @@
+Problem 1 [40 points]. Write a (Perl or Python) program that generates the 
+inverted index of a set of already preprocessed files. The files are stored 
+in a directory which is given as an input parameter to the program. Use the 
+files preprocessed in the previous assignment(s) as test data. Use raw term 
+frequency (tf) in the document without normalizing it. Think about saving the 
+generated index, including the document frequency (df), in a file so that you 
+can retrieve it later.
